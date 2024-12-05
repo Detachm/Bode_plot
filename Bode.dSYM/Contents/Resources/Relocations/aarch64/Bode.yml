@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/cedriclau/Desktop/outil numerique/niveau2/Bode'
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: _gauss_jordan, symObjAddr: 0x0, symBinAddr: 0x100002740, symSize: 0x5AC }
+  - { offset: 0x2A8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x888, symBinAddr: 0x100002FC8, symSize: 0x540 }
+  - { offset: 0x4CB, size: 0x8, addend: 0x0, symName: _updateImpedance, symObjAddr: 0x650, symBinAddr: 0x100002D90, symSize: 0x238 }
+  - { offset: 0x5C7, size: 0x8, addend: 0x0, symName: _calculate_gain, symObjAddr: 0x5AC, symBinAddr: 0x100002CEC, symSize: 0xA4 }
+  - { offset: 0x62D, size: 0x8, addend: 0x0, symName: _gauss_jordan, symObjAddr: 0x0, symBinAddr: 0x100002740, symSize: 0x5AC }
+  - { offset: 0x798, size: 0x8, addend: 0x0, symName: ___muldc3, symObjAddr: 0x0, symBinAddr: 0x100003520, symSize: 0x24C }
+  - { offset: 0x86B, size: 0x8, addend: 0x0, symName: ___muldc3, symObjAddr: 0x0, symBinAddr: 0x100003520, symSize: 0x24C }
+  - { offset: 0x970, size: 0x8, addend: 0x0, symName: ___divdc3, symObjAddr: 0x0, symBinAddr: 0x100003780, symSize: 0x3B8 }
+  - { offset: 0xA43, size: 0x8, addend: 0x0, symName: ___divdc3, symObjAddr: 0x0, symBinAddr: 0x100003780, symSize: 0x3B8 }
+...
